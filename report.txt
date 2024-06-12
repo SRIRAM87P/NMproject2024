@@ -1,0 +1,38 @@
+S.No		Test Time/ Date			page url				status		Description
+
+1		06-12-2024 12:40:07 pm		https://cfa.annauniv.edu/cfa/		Fail		Unable to click on object 'Object Repository/AUAdmission/Page_Admissions/a_M.EM.TechM.Arch.M.Plan'
+
+2		06-12-2024 12:48:16 pm		https://www.annauniv.edu/		Fail		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+
+
+
+3		06-12-2024 12:55:16 pm		https://www.annauniv.edu/		pass
+
+
+
+4		06-12-2024 01:01:42 pm		https://mkuniversity.ac.in/new/		Fail		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)		
+
+
+
+5		06-12-2024 01:21:30 pm		https://admissions.mkuniversity.ac.in/	Fail		Unable to click on object 'Object Repository/MKU/Page_Madurai kamaraj university/h3_Madurai Kamaraj University'
+
+
+
+
+6		06-12-2024 01:25:37 pm		https://mkuniversity.ac.in/new/		pass
+
+
+
+
+7		06-12-2024 02:06:52 pm		https://www.motherteresawomenuniv.ac.in/	Fail 	Unable to click on object 'Object Repository/MTWU/Page_Mother Teresa University/div_Research_image-layer'
+
+
+
+
+8		06-12-2024 02:12:47 pm		https://www.motherteresawomenuniv.ac.in/mwu/admission_2024					pass	
+
+
+
+
+
+9		06-12-2024 02:21:03 pm		https://www.motherteresawomenuniv.ac.in/mwu/acadamics			pass
