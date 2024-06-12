@@ -6,7 +6,7 @@ S.No		Test Time/ Date			page url				status		Description
 
 
 
-3		06-12-2024 12:55:16 pm		https://www.annauniv.edu/		pass
+3		06-12-2024 12:55:16 pm		https://www.annauniv.edu/		pass/failed
 
 
 
